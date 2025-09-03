@@ -60,7 +60,7 @@ Ensure you have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 
 ## 👨‍💻 Developer
 
-**[Your Full Name]**
+**Abdullah Mohamed**
 
 *   **GitHub:** https://github.com/abdullah-eltony
 *   **LinkedIn:** https://www.linkedin.com/in/abdullah-mohamed-korany-984186374/
@@ -69,4 +69,4 @@ Ensure you have [Node.js](https://nodejs.org/en/) and [npm](https://www.npmjs.co
 
 **Additional Tips for an Interview/Internship Context:**
 
-*   **Live Demo Link:** If you have deployed your app (e.g., on Netlify, Vercel, GitHub Pages), add a "Live Demo" section right at the top, just below the project title, with a direct link. This is a huge plus!
+*   **Live Demo Link:** https://react-todo-one-beta-99.vercel.app/
